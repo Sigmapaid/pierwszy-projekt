@@ -224,6 +224,8 @@ public class ReadAndWriteFiles{
 			
 			System.out.println("An I/O Error Occurred");
 			System.exit(0);
+                        
+                        //test zmian
 		
 		}
 		
